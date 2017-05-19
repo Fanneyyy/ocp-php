@@ -5,5 +5,6 @@
  <?php echo 'App Version: 10.2. Pod IP: '; ?>
  <?php echo $_SERVER['SERVER_ADDR']; ?>
  <?php echo ' PHP Version: ' . phpversion(); ?>
+ <h3>OpenShift Tutorial</h3>
  </body>
 </html>
